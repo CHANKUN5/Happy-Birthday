@@ -7,51 +7,51 @@ function ImageCarousel({ onClose }) {
 
   const images = [
     {
-      src: '/src/assets/IMAGEN 1.jpeg',
+      src: '/IMAGEN 1.jpeg',
       caption: 'Desde el primer día, supe que serías especial ✨'
     },
     {
-      src: '/src/assets/IMAGEN 2.jpeg',
+      src: '/IMAGEN 2.jpeg',
       caption: 'Cada momento contigo es un regalo 🎁'
     },
     {
-      src: '/src/assets/IMAGEN 3.jpeg',
+      src: '/IMAGEN 3.jpeg',
       caption: 'Gracias por ser mi persona favorita 💕'
     },
     {
-      src: '/src/assets/IMAGEN 4.jpeg',
+      src: '/IMAGEN 4.jpeg',
       caption: 'Risas, locuras y aventuras sin fin 🌟'
     },
     {
-      src: '/src/assets/IMAGEN 5.jpeg',
+      src: '/IMAGEN 5.jpeg',
       caption: 'Mi confidente, mi cómplice, mi hermana del alma 👯‍♀️'
     },
     {
-      src: '/src/assets/IMAGEN 6.jpeg',
+      src: '/IMAGEN 6.jpeg',
       caption: 'Los mejores recuerdos son los que creamos juntas 📸'
     },
     {
-      src: '/src/assets/IMAGEN 7.jpeg',
+      src: '/IMAGEN 7.jpeg',
       caption: 'Tu amistad es el mejor tesoro que tengo 💎'
     },
     {
-      src: '/src/assets/IMAGEN 8.jpeg',
+      src: '/IMAGEN 8.jpeg',
       caption: 'Porque contigo todo es mejor 🌈'
     },
     {
-      src: '/src/assets/IMAGEN 9.jpeg',
+      src: '/IMAGEN 9.jpeg',
       caption: 'Amigas por siempre, pase lo que pase 🤝'
     },
     {
-      src: '/src/assets/IMAGEN 10.jpeg',
+      src: '/IMAGEN 10.jpeg',
       caption: 'Gracias por existir y por estar siempre ahí 🙏'
     },
     {
-      src: '/src/assets/IMAGEN 11.jpeg',
+      src: '/IMAGEN 11.jpeg',
       caption: 'Que vengan muchos años más de amistad 🎂'
     },
     {
-      src: '/src/assets/IMAGEN 12.jpeg',
+      src: '/IMAGEN 12.jpeg',
       caption: 'Feliz cumpleaños a la mejor amiga del mundo! 🎉'
     }
   ];
